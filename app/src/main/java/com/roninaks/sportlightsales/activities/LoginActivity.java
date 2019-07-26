@@ -7,6 +7,7 @@ import com.roninaks.sportlightsales.R;
 
 public class LoginActivity extends AppCompatActivity {
 
+    //This is a test commit
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
