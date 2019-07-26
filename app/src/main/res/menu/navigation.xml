@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_home"
+        android:title="@string/nav_dashboard"/>
+
+
+    <item
+        android:id="@+id/navigation_add_client"
+        android:icon="@drawable/ic_cross"
+        android:title="@string/nav_add_client" />
+
+
+    <item
+        android:id="@+id/navigation_users"
+        android:icon="@drawable/ic_user"
+        android:title="@string/nav_users" />
+
+    <item
+        android:id="@+id/navigation_help"
+        android:icon="@drawable/ic_help"
+        android:title="@string/nav_users" />
+</menu>

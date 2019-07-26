@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sportlight - Sales</string>
+
+    <!--Navigation Menu -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_add_client">Add Client</string>
+    <string name="nav_users">Employees</string>
+    <string name="nav_help">Help</string>
+
+    <!-- Connection Strings -->
+    <string name="master_url"></string>
+
+    <!-- No Internet Activity -->
+    <string name="no_internet_retry">Retry</string>
+
+    <!-- Email Addresses -->
+    <string name="email_sender">tech@roninaks.com</string>
+    <string name="email_tech_support">tech@roninaks.com</string>
+    <string name="email_admin">tech@roninaks.com</string>
+    <string name="email_all">tech@roninaks.com</string>
+</resources>
